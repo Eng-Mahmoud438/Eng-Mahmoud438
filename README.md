@@ -1,20 +1,31 @@
-### Hi, I'm Mahmoud Hassan 👋
-**Electrical Engineer | Communications & IT | Python Automation | DCS | SCADA**
+# Hi, I'm Mahmoud Hassan ⚡🧠
 
-⚡ **Electrical Engineer**: Industrial Control Systems & Communications
-📡 **Communications**: Network Infrastructure, Protocols, PLC/DCS Integration  
-💻 **IT & Python**: Automation Scripts, NumPy Simulation, SCADA/HMI Development
-🛡️ **Cybersecurity**: Password Generator tools for SCADA/PLC networks
-📍 **Based in**: Dammam, Saudi Arabia
-💼 **Open to**: Automation Engineer, Control Systems, IT Infrastructure roles
+### Electrical Engineer | Industrial IT & OT Integration | Digital Manufacturing Specialist
+**Based in Dammam, Saudi Arabia 🇸🇦 | Open to Industrial IT / Software & Automation Engineer Roles**
 
-### 🚀 Featured Projects
+I bridge the gap between IT Infrastructure and Operational Technology (OT), focusing on Digital Manufacturing frameworks, Industrial IoT (IIoT), and Automation Solutions to optimize operational performance.
 
-- [Password-Generator-Regex](https://github.com/Eng-Mahmoud438/Password-Generator-Regex) : Security tool for SCADA/PLC networks
+---
 
-- [Factory-Temperature-Analyzer](https://github.com/Eng-Mahmoud438/Factory-Temperature-Analyzer) : Python tool for real-time factory temperature data analysis
+### ⚙️ Core Expertise & Technology Stack
+*   **Industrial IT & OT Integration:** Digital Thread architectures, IIoT data streams, and Predictive Maintenance tools.
+*   **Automation & Instrumentation:** PLC, SCADA, DCS configuration, and industrial protocol communication.
+*   **Full-Stack Industrial Development:** Building data-driven, production-ready backend systems and responsive industrial dashboards using **Python, JavaScript, Bootstrap 5, PHP, and MySQL**.
+*   **IT Infrastructure & Cloud:** Network administration, server deployment, and cloud fundamentals with **Microsoft Azure (AZ-900)**.
 
-- [Smart-Factory-Edge-Dashboard](https://github.com/Eng-Mahmoud438/Smart-Factory-Edge-Dashboard) : Real-time SCADA Simulation & Edge Dashboard with Predictive Maintenance (Pandas, NumPy, Flask) - © 08-2026 Mahmoud Hassan Alaroomi
+---
 
-### 📫 Let's connect
-[LinkedIn](https://www.linkedin.com/in/mahmoud-hassan-mohammed-al-aroomi-86239918a/)
+### 🚀 Featured Industrial Projects
+*   📊 **[Smart-Factory-Edge-Dashboard]([https://github.com](https://github.com/Eng-Mahmoud438/Smart-Factory-Edge-Dashboard)):** Real-time web-based SCADA simulation and edge computing dashboard with Predictive Maintenance capabilities using Pandas, NumPy, and Flask. *(Flagship Project)*
+*   🌡️ **[Factory-Temperature-Analyzer]([https://github.com](https://github.com/Eng-Mahmoud438/Factory-Temperature-Analyzer)):** Python-driven data analytical tool for parsing and visualizing real-time factory sensor data and detecting operational anomalies.
+*   🔐 **[Password-Generator-Regex]([https://github.com](https://github.com/Eng-Mahmoud438/Password-Generator-Regex)):** Robust security utility engineered for enforcing strong cryptographic network compliance in SCADA/PLC environments.
+
+---
+
+### 💼 Technical Sales & Project Value
+Beyond code and hardware wiring, I possess a strong capability to effectively translate advanced technical architectures into clear business metrics—**presenting and pitching digital transformation solutions directly to corporate clients and executive stakeholders**.
+
+---
+
+### 🤝 Let's Connect
+*   🌐 **LinkedIn Profile:** [Connect with me on LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/mahmoud-hassan-mohammed-al-aroomi-96239918a/))
