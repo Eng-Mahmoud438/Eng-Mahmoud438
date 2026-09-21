@@ -28,4 +28,4 @@ Beyond code and hardware wiring, I possess a strong capability to effectively tr
 ---
 
 ### 🤝 Let's Connect
-*   🌐 **LinkedIn Profile:** [Connect with me on LinkedIn](https://linkedin.com)
+*   🌐 **LinkedIn Profile:** [Connect with me on LinkedIn](https://linkedin.com/in/mahmoud-hassan-mohammed-al-aroomi-96239918a/)
