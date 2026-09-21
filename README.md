@@ -16,9 +16,9 @@ I bridge the gap between IT Infrastructure and Operational Technology (OT), focu
 ---
 
 ### 🚀 Featured Industrial Projects
-*   📊 **[Smart-Factory-Edge-Dashboard]([https://github.com](https://github.com/Eng-Mahmoud438/Smart-Factory-Edge-Dashboard)):** Real-time web-based SCADA simulation and edge computing dashboard with Predictive Maintenance capabilities using Pandas, NumPy, and Flask. *(Flagship Project)*
-*   🌡️ **[Factory-Temperature-Analyzer]([https://github.com](https://github.com/Eng-Mahmoud438/Factory-Temperature-Analyzer)):** Python-driven data analytical tool for parsing and visualizing real-time factory sensor data and detecting operational anomalies.
-*   🔐 **[Password-Generator-Regex]([https://github.com](https://github.com/Eng-Mahmoud438/Password-Generator-Regex)):** Robust security utility engineered for enforcing strong cryptographic network compliance in SCADA/PLC environments.
+*   📊 **[Smart-Factory-Edge-Dashboard](https://github.com):** Real-time web-based SCADA simulation and edge computing dashboard with Predictive Maintenance capabilities using Pandas, NumPy, and Flask. *(Flagship Project)*
+*   🌡️ **[Factory-Temperature-Analyzer](https://github.com):** Python-driven data analytical tool for parsing and visualizing real-time factory sensor data and detecting operational anomalies.
+*   🔐 **[Password-Generator-Regex](https://github.com):** Robust security utility engineered for enforcing strong cryptographic network compliance in SCADA/PLC environments.
 
 ---
 
@@ -28,4 +28,4 @@ Beyond code and hardware wiring, I possess a strong capability to effectively tr
 ---
 
 ### 🤝 Let's Connect
-*   🌐 **LinkedIn Profile:** [Connect with me on LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/mahmoud-hassan-mohammed-al-aroomi-96239918a/))
+*   🌐 **LinkedIn Profile:** [Connect with me on LinkedIn](https://linkedin.com)
